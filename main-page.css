@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+
+.main-container {
+  width: 100vw;
+  height: 100vh;
+
+  display: grid;
+
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
